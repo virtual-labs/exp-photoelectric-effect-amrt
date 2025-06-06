@@ -2,38 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "When UV light incident on a Zinc metal surface, few electrons are emitted. The phenomenon is called",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Thermal emission",
+        "b": "Compton effect",
+        "c": "Photovoltaic effect",
+        "d": "Photoelectric effect"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Thermal emission involves emission due to heat, not light.",
+        "b": "Compton effect involves scattering of X-rays or gamma rays, not emission of electrons.",
+        "c": "Photovoltaic effect generates voltage, not electron emission directly.",
+        "d": "Correct. The emission of electrons due to light is called the photoelectric effect."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The phenomenon 'Photoelectric effect' was first observed by Heinrich Hertz. The man who gave the correct explanation for the same was",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Einstein",
+        "b": "Max Planck",
+        "c": "Heinrich Hertz",
+        "d": "Isaac Newton"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct. Einstein explained the photoelectric effect using quantum theory.",
+        "b": "Planck introduced quantum hypothesis but didn’t explain this effect.",
+        "c": "Hertz observed it but didn’t explain it.",
+        "d": "Newton’s theories predate the discovery of the photoelectric effect."
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
     }
   ]
 }
