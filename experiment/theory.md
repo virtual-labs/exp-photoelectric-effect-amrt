@@ -30,7 +30,7 @@ metal. The work function can be expressed in terms of frequency as,
 
 $$W = h \nu_0 .............(1)$$
 
-Where h is the Planck's constant and and $\nu_0$  is the threshold frequency (minimum frequency for photoelectric effect).The work function for some metals are listed in the table.   
+Where h is the Planck's constant and $\nu_0$  is the threshold frequency (minimum frequency for photoelectric effect).The work function for some metals are listed in the table.   
 
  According to Einstein the Photoelectric effect should obey the equation,
 
