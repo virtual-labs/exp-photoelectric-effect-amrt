@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The fundamental theory which could explain Photoelectric effect is",
+      "answers": {
+        "a": "Classical theory",
+        "b": "Quantum Theory",
+        "c": "Wave theory",
+        "d": "Corpuscular theory"
+      },
+      "explanations": {
+        "a": "Classical theory failed to explain instantaneous emission and frequency dependence.",
+        "b": "Correct. Quantum theory explains energy quantization and photon interaction.",
+        "c": "Wave theory couldn’t explain threshold frequency.",
+        "d": "Corpuscular theory was outdated by the time photoelectric effect was discovered."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Which among the following is true in the case of Photoelectric effect",
+      "answers": {
+        "a": "It is not an instantaneous phenomenon",
+        "b": "The photo current is independent of the intensity of incident light",
+        "c": "The kinetic energy of photo electrons increases with the frequency of incident radiation",
+        "d": "The photo current depends on frequency of incident radiation"
+      },
+      "explanations": {
+        "a": "Incorrect. The phenomenon is instantaneous.",
+        "b": "Incorrect. Current increases with intensity.",
+        "c": "Correct. Kinetic energy of photoelectrons is related to frequency.",
+        "d": "Incorrect. Photo current depends on intensity, not frequency."
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "In the experimental set up for Photoelectric effect, photo-current becomes zero when the applied voltage reaches",
+      "answers": {
+        "a": "Stopping potential",
+        "b": "Saturation potential",
+        "c": "Zero voltage",
+        "d": "Infinitely high voltage"
+      },
+      "explanations": {
+        "a": "Correct. Stopping potential prevents even the most energetic electrons from reaching the anode.",
+        "b": "Saturation potential gives maximum current, not zero.",
+        "c": "At zero voltage, some current may still flow.",
+        "d": "This is not applicable to photoelectric experiments."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
